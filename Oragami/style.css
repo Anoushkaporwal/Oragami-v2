@@ -1,0 +1,27 @@
+h1{
+    border:solid; 
+    display:flex;
+    justify-content:center; 
+}
+
+.chameleon{
+      display:flex;
+      justify-content:center;
+      background-color: rgba(132, 173, 153, 0.719);
+      border:dotted;
+}
+
+.pigeon{
+    display:flex;
+    justify-content:center;
+    border:dotted;
+    background-color:rgba(121, 143, 158, 0.76)
+}
+
+.panda{
+    display:flex;
+    justify-content:center;
+    border:dotted;
+    border-bottom-color: black;
+    border-top-color:white; 
+}
